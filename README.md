@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello, 
+thank you for checking out my profile. I am a student at IES FSV UK, among other things, and I use GitHub for school related topics (such as using it as a version control tool for my bachelor's thesis or to sync my notes), personal projects and work.
+
 
 <!--
 **SlavomirHoricka/SlavomirHoricka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
